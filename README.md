@@ -1,0 +1,2 @@
+# japanese
+studing japanese notes
