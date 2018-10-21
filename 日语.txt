@@ -2,7 +2,7 @@
 い    いぬ    犬	      i nu
 う　　うま　　馬　　	      u ma
 え    えがお　笑顔	      e ga o
-お　　おはにょ早安	      o ha yo u　
+お　　おはよう早安	      o ha yo u　
 
 か　　からす　  鴉　          ka ra su
 き              树            ki
